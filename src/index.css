@@ -1,0 +1,34 @@
+h1{
+  color: blue;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  border: 10px solid black;
+  border-radius: 55px;
+}
+
+body{
+  background-color: darkslategrey;
+  border: 15px solid rgba(0, 0, 255, 0.423);
+}
+
+p{
+  color: orangered;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  border: 10px solid rgb(35, 18, 0);
+  border-radius: 55px;
+}
+
+img{
+  border: 10px solid rgb(160, 222, 166);
+  border-radius: 55px;
+  height: 500px;
+  width: 500px;
+}
+
+li{
+  color: red;
+  border: 10px solid silver;
+  border-radius: 55px;
+}
+::marker{
+  content: "🧠";
+}
